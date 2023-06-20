@@ -16,6 +16,7 @@ sudo apt-get install -y dotnet-runtime-3.1
 Linux:
 
 wget https://github.com/SkyAerope/MinecraftProxy/releases/download/v1.0.0/release.zip
+
 unzip release.zip
 
 dotnet ./MinecraftProxy2.dll
